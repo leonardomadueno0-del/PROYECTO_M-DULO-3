@@ -1,3 +1,4 @@
+
 # PROYECTO DE CONTROL DE INVENTARIO
 print("BIENVENIDO AL CONTROL DE INVENTARIO.")
 mayor = 0
@@ -34,6 +35,11 @@ print(f"Total de productos registrados: {total_productos}")
 if total_productos > 0:
     print(f"El producto más caro fue: {producto_caro}")
     print(f"Su precio fue: ${mayor:.2f}")
+elif total_productos == 0:
+    print("No se registraron productos.")
+else:
+    print("Error al generar el resumen.")
+
 else:
     print("No se registraron productos.")
 
