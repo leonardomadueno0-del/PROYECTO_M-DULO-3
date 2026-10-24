@@ -25,4 +25,4 @@ Declaro que he utilizado la herramienta de Inteligencia Artificial **ChatGPT** c
 
 ## Video de exposición
 
-[Agregar aquí el enlace del video en Google Drive]
+https://docs.google.com/videos/d/1W2eBcYRIdx-vaBN3nHLdIxdhik_spN-12IYZtzbgXnA/play?usp=sharing
