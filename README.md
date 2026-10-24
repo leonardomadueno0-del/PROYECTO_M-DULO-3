@@ -19,8 +19,12 @@
 
 ## Declaración de Uso de IA
 
-Declaro que he utilizado la herramienta de Inteligencia Artificial **ChatGPT** como apoyo para organizar el repositorio de GitHub y resolver dudas relacionadas con la documentación del proyecto. El desarrollo y la revisión del programa son responsabilidad de los integrantes del equipo.
-
+Declaro que he utilizado la herramienta de Inteligencia Artificial **ChatGPT** como apoyo para organizar el repositorio de GitHub y resolver dudas relacionadas con la documentación del proyecto. El desarrollo y la revisión del programa son totalmente hechos por mi.
+promps utilizados:
+-"como hago un repositorio en Github"
+-"El codigo no tiene errores?"
+-"haz lo que va dentro del repositorio de README.md de acuerdo a lo que se pide"
+-"No me hace falta nada de lo que se pide"
 ---
 
 ## Video de exposición
